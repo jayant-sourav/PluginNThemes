@@ -1,0 +1,13 @@
+Install git bash
+
+git-scm.com
+
+
+Install node.js
+
+npm install gulp-cli -g
+
+copy four gulp files https://github.com/LearnWebCode/vagrant-lamp
+cd foldername  and npm install
+
+Gulp watch
